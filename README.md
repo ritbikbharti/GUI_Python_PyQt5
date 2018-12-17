@@ -1,3 +1,6 @@
+![madewithlove](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
+
 # GUI_Python_PyQt5
 This repository contains my first GUI python application.
 
