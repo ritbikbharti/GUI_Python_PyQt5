@@ -22,3 +22,7 @@ and processes it. And after taking required inputs
 from user and processing it, saves the final output
 file. The GUI comes as a handy feature for the user
 as a graphical interface always pleasures the user.
+
+### Sample Image:-
+
+![alt text](https://github.com/ritbikbharti/GUI_Python_PyQt5/blob/master/image.png)
